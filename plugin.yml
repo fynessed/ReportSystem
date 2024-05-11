@@ -1,0 +1,5 @@
+name: ReportSystem
+main: fynessed\ReportSystem
+api: 5.15.0
+version: 1.0.0
+author: fynessed

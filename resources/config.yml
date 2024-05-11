@@ -1,0 +1,27 @@
+# :::::::::  :::::::::: :::       :::     :::     :::::::::  :::::::::   ::::::::  :::   :::  :::::::: ::::::::::: ::::::::::   :::   :::
+# :+:    :+: :+:        :+:       :+:   :+: :+:   :+:    :+: :+:    :+: :+:    :+: :+:   :+: :+:    :+:    :+:     :+:         :+:+: :+:+:
+# +:+    +:+ +:+        +:+       +:+  +:+   +:+  +:+    +:+ +:+    +:+ +:+         +:+ +:+  +:+           +:+     +:+        +:+ +:+:+ +:+
+# +#++:++#:  +#++:++#   +#+  +:+  +#+ +#++:++#++: +#++:++#:  +#+    +:+ +#++:++#++   +#++:   +#++:++#++    +#+     +#++:++#   +#+  +:+  +#+
+# +#+    +#+ +#+        +#+ +#+#+ +#+ +#+     +#+ +#+    +#+ +#+    +#+        +#+    +#+           +#+    +#+     +#+        +#+       +#+
+# #+#    #+# #+#         #+#+# #+#+#  #+#     #+# #+#    #+# #+#    #+# #+#    #+#    #+#    #+#    #+#    #+#     #+#        #+#       #+#
+# ###    ### ##########   ###   ###   ###     ### ###    ### #########   ########     ###     ########     ###     ########## ###       ###
+
+# Developed by fynessed
+# Discord: clickings
+
+# Set the webhook attribute to the Webhook URL from your channel integration.
+webhook: "https://discord.com/api/webhooks/1238810871371661365/hl-BSstx-lKoiNe3r8zS8sl4s6RV_sMUUms6Q3w1IHwTKAudl2ED5jGq9D2bKI8QV8Cu"
+
+# This will be the title of the discord embed message.
+discordTitle: 'New Report!'
+
+# The description of the embed, the report message as it were.
+# {player} = Player being reported.
+# {sender} = Player making the report.
+# {Reason} = Reason for user making the report.
+reportMessage: '{player} has been reported by {sender} for {reason}'
+
+# The colour of the embed that will be sent.
+embedColour: 0xAA0000
+
+# You may change all of these options to how your own preference. Any errors, make an issue on the GitHub. https://github.com/fynessed/ReportSystem/issues
