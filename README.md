@@ -1,3 +1,6 @@
+[![](https://poggit.pmmp.io/shield.state/ReportSystemUI)](https://poggit.pmmp.io/p/ReportSystemUI)
+[![](https://poggit.pmmp.io/shield.api/ReportSystemUI)](https://poggit.pmmp.io/p/ReportSystemUI)
+
 # ReportSystem
 A UI report system for [PocketMine-MP](https://pmmp.io/) based Bedrock servers. This plugin - upon a player completing a report - will send an embed through the use of Discord Webhooks.
 
